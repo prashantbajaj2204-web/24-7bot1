@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "avengersfan!",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "163.5.201.3:14675",
-    "port": 14675,
+    "ip": "cutiesmps1.aternos.me",
+    "port": 49080,
     "version": "1.20.1",
     "try-creative": false
   },
